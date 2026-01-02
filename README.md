@@ -9,7 +9,6 @@
 
 ## 🎥 Project Demo
 
-<p><i>Watch the Handora system in action controlling the industrial dashboard.</i></p>
 https://github.com/user-attachments/assets/91cd9e1b-5e02-4a31-9dd4-df54624c8ec5
 
 ---

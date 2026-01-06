@@ -6,6 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-orange?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Backend-Flask%20%2F%20FastAPI-green?style=for-the-badge)
+![Industry 4.0](https://img.shields.io/badge/Industry%204.0-Smart%20Factory-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Category-Industrial%20Automation-blueviolet?style=for-the-badge)
 
 ## 🎥 Project Demo
 
